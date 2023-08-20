@@ -1,0 +1,15 @@
+# This is the configuration file for the automation framework.
+
+#chrome,firefox,edge,safari
+browser=chrome
+
+#Yes,No
+isHeadless=no
+
+
+#enble,Disable
+
+isScreenshotCapture=Enable
+
+#on,off//
+isDemoMode=on

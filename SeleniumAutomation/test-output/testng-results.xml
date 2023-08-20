@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-20T22:52:37 JST" name="Default suite" finished-at="2023-08-20T22:53:37 JST" duration-ms="59757">
+    <groups>
+    </groups>
+    <test started-at="2023-08-20T22:52:37 JST" name="Default test" finished-at="2023-08-20T22:53:37 JST" duration-ms="59757">
+      <class name="Project1_Jquery.JqueryMultipleTest">
+        <test-method is-config="true" signature="BeforeClass()[pri:0, instance:Project1_Jquery.JqueryMultipleTest@49b0b76]" started-at="2023-08-20T22:52:37 JST" name="BeforeClass" finished-at="2023-08-20T22:52:37 JST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method is-config="true" signature="beforeEachTest()[pri:0, instance:Project1_Jquery.JqueryMultipleTest@49b0b76]" started-at="2023-08-20T22:52:37 JST" name="beforeEachTest" finished-at="2023-08-20T22:52:47 JST" duration-ms="10109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTest -->
+        <test-method signature="ClickAccordion()[pri:0, instance:Project1_Jquery.JqueryMultipleTest@49b0b76]" started-at="2023-08-20T22:52:47 JST" name="ClickAccordion" finished-at="2023-08-20T22:53:34 JST" duration-ms="46433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickAccordion -->
+        <test-method is-config="true" signature="AfterEchTest()[pri:0, instance:Project1_Jquery.JqueryMultipleTest@49b0b76]" started-at="2023-08-20T22:53:34 JST" name="AfterEchTest" finished-at="2023-08-20T22:53:37 JST" duration-ms="3187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterEchTest -->
+        <test-method is-config="true" signature="AfterClass()[pri:0, instance:Project1_Jquery.JqueryMultipleTest@49b0b76]" started-at="2023-08-20T22:53:37 JST" name="AfterClass" finished-at="2023-08-20T22:53:37 JST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+      </class> <!-- Project1_Jquery.JqueryMultipleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
